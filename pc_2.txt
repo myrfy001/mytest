@@ -1,2 +1,6 @@
 pc_2
+<<<<<<< HEAD
 edit in vm 1
+=======
+edit in pc 1
+>>>>>>> a733b7efd960c8e24348651459ee0f4a21cf5301
